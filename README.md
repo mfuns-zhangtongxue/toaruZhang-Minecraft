@@ -9,4 +9,4 @@
 
 如果有问题可以在Issues提出，我会在Wiki发布最新动态。
 
-关注 [https://www.mfuns.cn/author/23753](我的喵御宅主页) 或者在本库Wiki关注最新动态。
+关注 [我的喵御宅主页](https://www.mfuns.cn/author/23753) 或者在本库Wiki关注最新动态。
